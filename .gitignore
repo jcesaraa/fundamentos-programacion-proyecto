@@ -1,0 +1,4 @@
+bin/
+archivos_generados/
+.settings/
+*.class
